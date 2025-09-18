@@ -22,7 +22,7 @@ This project implements a smart electric meter using Arduino Uno, ZMPT voltage s
 - Libraries: pyserial, pandas
 
 ## Wiring Diagram
-![Wiring Diagram](Electric-Meter-circuit-Daigaram.jpg)
+![Wiring Diagram](Electric-Meter-circui-diagram/‎electric-diagram.‎001.jpeg)
 
 ## Usage
 1. Upload `ElectricMeter.ino` to Arduino.
